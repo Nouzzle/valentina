@@ -10,7 +10,7 @@ body {
 }
 
 .shake {
-    animation: shake 0.9s;
+    animation: shake 0.5s;
 }
 
 #question-box {
