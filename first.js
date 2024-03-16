@@ -3,5 +3,5 @@ function yesResponse() {
 }
 
 function noResponse() {
-    document.getElementById('no-button').textContent = "percuma u nge click ini ga berfungsi juga xixi 😼";
+    document.getElementById('no-button').textContent = "percuma u nge click ini ga berfungsi juga xixixi 😼";
 }
